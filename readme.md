@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/%F0%9F%92%A7%20-%20consume%20-%20blue)
+![Static Badge](https://img.shields.io/badge/%F0%9F%92%A7%20-%20Consumo%20de%20agua%20-%20blue)
 
 
 ![Static Badge](https://img.shields.io/badge/Projeto%20-%20red)

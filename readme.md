@@ -1,6 +1,8 @@
-https://img.shields.io/badge/%F0%9F%92%A7%20consumo%20de%20agua%20-%20blue
+https://img.shields.io/badge/consumo%20de%20agua%20-%20blue
 
-https://img.shields.io/badge/%F0%9F%93%8C-%20Projeto%20-%20red
+
+https://img.shields.io/badge/Projeto%20-%20red
+
 
 A companhia de saneamento da sua cidade lançou uma campanha de conscientização ambiental e precisa de um script em <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%90%8D%20-%20Python%20-%20yellow"> para classificar o perfil de consumo dos imóveis e emitir alertas educativos aos moradores. 
 

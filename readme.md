@@ -11,9 +11,13 @@ Consumo mensal de água em metros cúbicos (m³).
 <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%8A%20-%20Regras%20-%20black">
 
 Comercial - Qualquer consumo Tarifa comercial aplicada consulte o plano corporativo.
+
 Apartamento - Consumo menor que 10 m³ consumo econômico excelente controle de água!
+
 Apartamento ou casa - Consumo menor ou igual que 25 m³ Consumo moderado dentro do padrão residencial.
+
 Outros casos - Consumo excessivo, adote medidas de economia e verifique vazamentos. 
+
 Nao tendo imovel ou erro de digitaçao - Imovel desconhecido
 
 
